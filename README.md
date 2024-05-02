@@ -1,4 +1,4 @@
-## ⚡️ O Projeto
+## O Projeto
 
 API do teste de BackEnd para Think Technology.
 
@@ -18,7 +18,7 @@ API do teste de BackEnd para Think Technology.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/INTLPiva/api-nest-user-device.git && cd api-nest-user-device
+git clone https://github.com/leomendoncaf/think-challenge.git && cd think-challenge
 ```
 
 2. Instale todas as depencências
